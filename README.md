@@ -1,3 +1,3 @@
 # KyMovie
 
-Website that displays free movies to watch online
+Website that displays popular movies and links to youtube trailer
